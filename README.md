@@ -2,7 +2,7 @@
 ### Regional evidence from an INPS–ISTAT panel (2019–2023) and the 2023 eligibility tightening
 
 ## Project Overview
-This repository contains the empirical econometric research conducted for the **Python for Economists** course (AY 2025/2026). The project investigates whether Italy's guaranteed minimum income scheme (*Reddito di Cittadinanza* – RdC) reduced regional labour-market participation between 2019 and 2023, exploiting the policy's tightening under Law 197/2022 as an empirical quasi-experiment.
+This repository contains the empirical econometric research conducted for the **Python for Economists** course, AY 2025/2026 (Group20 Python code Rdc). The project investigates whether Italy's guaranteed minimum income scheme (*Reddito di Cittadinanza* – RdC) reduced regional labour-market participation between 2019 and 2023, exploiting the policy's tightening under Law 197/2022 as an empirical quasi-experiment.
 
 ## Data Sources & Pipeline
 The analysis is based on a balanced panel of **20 Italian regions observed over 18 quarters** (360 observations):
